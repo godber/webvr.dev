@@ -1,0 +1,16 @@
+baseURL = 'https://webvr.dev/'
+languageCode = 'en-us'
+title = 'WebVR Dev'
+theme = 'hyde'
+
+
+[params]
+  description = "Thoughts on WebXR/XR development."
+  themeColor = "theme-base-0b"
+  layoutReverse = true
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/godber"},
+      {Name = "Twitter", URL = "https://twitter.com/godber"}
+  ]
